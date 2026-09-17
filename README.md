@@ -2,6 +2,9 @@
 
 A standalone World of Warcraft **Burning Crusade Classic** addon. No libraries or dependencies are required.
 
+## Disclaimer
+One-shot with GPT-6 Astra
+
 ## Install
 
 Copy the **BGTracker** folder into the `Interface/AddOns` directory of your TBC Classic installation. The layout must be `Interface/AddOns/BGTracker/BGTracker.toc`, without an extra nested folder. Restart the game and enable **BG Tracker** in the character selection screen's AddOns list. If your client marks it out of date, enable **Load out of date AddOns**; the manifest targets interface versions 20505 and 20504.
