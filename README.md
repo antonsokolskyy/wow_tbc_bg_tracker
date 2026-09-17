@@ -35,3 +35,6 @@ Run `lua5.1 tests/run.lua` from this project directory for the mocked event, tra
 In-game smoke test: enter a BG, earn HK and objective honor, use `/reload`, finish the match, wait for completion honor, and leave. Confirm one history row, the correct result/color, unchanged duration after the result, and separate honor columns. Try dragging/clicking the minimap button and reopening the history after relogging.
 
 API reference: [Blizzard's TBC scoreboard source mirror](https://github.com/Gethe/wow-ui-source/blob/classic_anniversary/Interface/AddOns/Blizzard_FrameXML/TBC/WorldStateFrame.lua).
+
+## Screenshots
+<img width="1487" height="838" alt="Screenshot From 2026-09-17 14-43-11" src="https://github.com/user-attachments/assets/dc975505-9e1b-4974-aae3-406d17c26bb0" />
