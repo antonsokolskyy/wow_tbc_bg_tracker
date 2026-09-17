@@ -1,0 +1,10 @@
+## Interface: 20505, 20504
+## Title: BG Tracker
+## Notes: Battleground history with time, HK honor, bonus honor, and results.
+## Author: BG Tracker
+## Version: 1.0.0
+## SavedVariablesPerCharacter: BGTrackerDB
+
+Tracker.lua
+UI.lua
+Core.lua
